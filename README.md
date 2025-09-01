@@ -102,7 +102,6 @@ Les pull requests sont les bienvenues. Pour les changements majeurs, veuillez d'
 **PAWLAK Nans**
 
 ## 🙏 Remerciements
-- École IPSSI pour les exigences et les conseils du projet
 - Tous les contributeurs qui ont aidé à façonner ce projet
 
 ---
