@@ -44,7 +44,7 @@ Une plateforme de quiz moderne et intuitive conçue pour les établissements sco
 
 1. Cloner le dépôt
 ```bash
-git clone https://github.com/votreidentifiant/quizzeo.git
+https://github.com/NansPwlk/PROJET-WEB.git
 ```
 
 2. Configurer les permissions des dossiers
