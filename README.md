@@ -97,9 +97,8 @@ Les pull requests sont les bienvenues. Pour les changements majeurs, veuillez d'
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## 👨‍💻 Auteur
-**LEVY YANNIS**
-**DUCRET ALEXANDRE**
-**BANON LEE**
+**LEVY YANNIS, **
+**DUCRET ALEXANDRE, **
 **PAWLAK Nans**
 
 ## 🙏 Remerciements
