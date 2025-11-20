@@ -3,6 +3,7 @@
 ![Quizzeo Logo](public/assets/logo.png)
 
 Une plateforme de quiz moderne et intuitive conçue pour les établissements scolaires et les entreprises.
+IMPORTANT : Ce projet n'est pas à jour, les fonctionnalités decrite dans ce README ne sont pas toute implémentée.
 
 ## ✨ Fonctionnalités
 
